@@ -9,6 +9,7 @@
 
 # New Year
 
+![new year](https://github.com/V1n1c1u0s/javascript-projects/blob/main/newyear.jpg)
 
 # Jogo da Velha
 
