@@ -1,0 +1,17 @@
+canvas{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -300px;
+    margin-top: -300px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+#info-esquerda{
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 80px;
+    text-align: center;
+    position: absolute;
+}

@@ -1,0 +1,73 @@
+header{
+    text-align: center;
+}
+#tabuleiro{
+    width: 252px;
+    height: 252px;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 0 auto;
+    background-color: green;
+}
+.localdejogada{
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+#valor1{
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+#valor2{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+#valor3{
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+}
+#valor4{
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+#valor5{
+    border: 2px solid black;
+}
+#valor6{
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+#valor7{
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+}
+#valor8{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+}
+#valor9{
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+}
+p{
+    margin-top: 10px;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+#reiniciar input{
+    cursor: pointer;
+    display: block;
+    padding: 3px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    background-color: green;
+    width: 120px;
+    height: 30px;
+}
